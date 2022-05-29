@@ -3,7 +3,7 @@
 
 
 class SmallestIntegerFinder {
-    findSmallestInt(args) {
-      return Math.min(...args)
+    findSmallestInt(argsi) {
+      return Math.min(...argsi)
     }
   }
