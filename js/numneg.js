@@ -4,3 +4,5 @@ function makeNegative(num) {
       return num - num -num
     }else return num
   }
+
+  
